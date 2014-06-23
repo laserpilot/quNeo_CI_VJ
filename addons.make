@@ -1,0 +1,3 @@
+ofxCoreImage
+ofxMidi
+ofxQuNeo
